@@ -1,0 +1,43 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>Mark WebSite</title>
+        <link rel="stylesheet" href="tickets.html1.css"></link>
+    </head>
+    <body>
+        <div class="nav">  
+            <ul class="menu">
+                <li class="name">Mark</li>
+                <li><a href="file:///C:/Users/%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D1%80/Downloads/tickets.html"> Home </a></li>
+                <li><a href="#"> Experiens </a></li>
+            </ul>
+        </div>
+
+
+        <header class="header img">
+            <img src="https://placeimg.com/140/140/people">
+            <h1> Helo I am Mark </h1>
+            <p class="tag sub-title">My home is Kyiv</p>
+        </header>
+
+        <div class="content">
+        <div class="card">
+        <h2>Background</h2>
+        <p> JUGHHFFCCFCCCCCCCCCCFJKKKKKKKKKKKKKKKK
+        <p>
+        <div>
+        <div>
+        <div class="carde">
+            <h2>Goals</h2>
+            <p>Ronaldo</p>
+            <ul class="tag-list">
+             <li class="tag tag-yellow"> HTML </li> 
+             <li class="tag tag-blue"> CSS </li>
+             <li class="tag"> JS </li>
+             <li class="tag"> Web Desing </li>  
+            </ul>
+        </div>
+        <div>
+            <li class="lol"><a href="https://github.com/Tokarev228"> Git hub </a></li>
+        </div>
+         </footer>
