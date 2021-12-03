@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+ text-decoration: none; 
+ color: rgb(0, 174, 255);  
+}
+
+.nav {
+   height: 40px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+   font-weight: 600; 
+}
+
+.menu {
+  display: flex;
+  flex-flow: row ;
+  color: rgb(255, 255, 255);
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-around;
+}
+
+.menu li {
+  padding: 10px;  
+}
+
+.name {
+   display: block;
+   margin-right: auto; 
+}
+
+header {
+    padding-top: 40px;
+    height: 400;
+    width: 100%;
+    background-image: url(https://placeimg.com/1000/400/nature);
+    background-size: cover ;
+    text-align: center;
+}
+
+header img {
+   border-radius: 50%; 
+   border: 2px solid black;
+   transition: all .5s;
+}
+
+header img:hover {
+   transform: scale(1.2) rotate(5deg);
+  border: 5px solid black; 
+}
+
+.tag {
+    background-color: aliceblue; 
+    display: table;
+    padding: 10px;
+    margin: 10px auto; 
+    background-color: chartreuse;
+    border-radius: 10px
+}
+
+h1 {
+    background-color: aliceblue; 
+    display: table;
+    margin: 10px auto; 
+    padding: 10px;
+    border-radius: 10px
+}
+
+.sub-title {
+   background-color: rgb(0, 0, 0); 
+   color: rgb(255, 238, 0);
+}
+
+.content {
+   display: flex; 
+   flex-flow: row;
+   margin: 0 auto;
+   justify-content: space-around;
+}
+
+.card {
+ max-width: 500px; 
+ margin: 10px;
+ padding: 20px;
+ margin-left: 10px;
+ border-bottom: 3px rgb(255, 0, 0);
+ border-radius: 5px;
+}
+
+.carde {
+   width: 500px; 
+   margin: 10px;
+   padding: 50px;
+  right: 1000px;
+   border-bottom: 3px solid gray;
+   border-radius: 5px;
+  }
+
+.tag-list {
+  display: flex; 
+  flex-flow: row;
+  list-style: none;
+  background-color: cornsilk;
+} 
+
+.tag-yellow {
+   background-color: rgba(255, 255, 0, 0.747);
+   color: azure;
+}
+
+.tag-blue {
+   background-color: rgba(0, 0, 255, 0.767);
+   color: azure;
+}
+
+.lol {
+   list-style: none;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  footer {
+     text-align: center;
+     padding: 60px;
+  }
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
